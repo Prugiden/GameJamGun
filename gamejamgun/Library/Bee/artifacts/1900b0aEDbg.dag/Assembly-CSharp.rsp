@@ -354,8 +354,13 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
+"Assets/scripts/dialog.cs"
+"Assets/scripts/DialogManager.cs"
+"Assets/scripts/dialogtrigger.cs"
 "Assets/scripts/MoveAroundObject.cs"
 "Assets/scripts/PlayerController.cs"
+"Assets/scripts/Tima.cs"
+"Assets/scripts/vindis.cs"
 -langversion:9.0
 
 /deterministic
